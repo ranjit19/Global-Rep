@@ -7,4 +7,4 @@
 *&---------------------------------------------------------------------*
 REPORT ZGITTEST_NEW.
 write 'hello world'.
-write 'hello
+write 'hello'.
